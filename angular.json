@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "Avalith"
+  "defaultProject": "Avalith",
+  "cli": {
+    "analytics": "a66a6bd5-1d6e-4183-a614-8e1b15a3fb6a"
+  }
 }

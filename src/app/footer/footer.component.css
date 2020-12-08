@@ -1,0 +1,64 @@
+
+.container-fluid{
+    margin-top: 90px;
+    background-color: #E61E3D;
+    height: 70%;
+    color:#ffffff;
+    font-family: 'Poppins';
+    font-weight: bold;
+
+}
+
+button{
+    width: 60%;
+   height: 90%;
+    border-radius: 60px;
+    -webkit-box-shadow: 5px 5px 15px -9px #000000; 
+    box-shadow: 5px 5px 15px -9px #000000;
+    background-color:#E61E3D;
+    color: #ffffff;
+    border: 1px aliceblue;
+    font-weight: bold;
+}
+
+.row{
+   
+   
+    
+}
+
+.col-12{
+    padding: 20px 20px;
+}
+
+.fila{
+    height: 100px;
+}
+
+
+@media screen and (max-width:480px){
+
+    .pie{
+        width: 100%;
+        height: 100%;
+        padding-right: 0;
+    }
+
+
+    .fila{
+        width: 100%;
+        height: 100%;
+    }
+
+    .text-left{
+        text-align: center !important;
+        padding-left: 50px;
+    }
+
+    .col-12{
+        padding-left: 40px;
+    }
+
+
+}
+
